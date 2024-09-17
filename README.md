@@ -5,15 +5,16 @@ This project contains a collection of Java programs covering a wide range of top
 This repository offers practical examples and demonstrations.
 
 ## Features
+
+  - Generics: Examples demonstrating the use of generics in Java.
+    
+  - Lambda Functions: Practical uses and examples of lambda expressions.
+
   - Collections:
 
     - Lists: ArrayList, LinkedList, and their operations.
     - Maps: Understand HashMap, TreeMap, and LinkedHashMap.
     - Queues: PriorityQueue, LinkedList, and other queue implementations.
-
-  - Generics: Examples demonstrating the use of generics in Java.
-    
-  - Lambda Functions: Practical uses and examples of lambda expressions.
          
   - Interfaces:
     
