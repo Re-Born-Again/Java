@@ -1,6 +1,6 @@
 # Java
 
-Welcome to the Java Programming Examples repository! 
+Welcome to the Java repository! 
 This project contains a collection of Java programs covering a wide range of topics, including collections, the Executor framework, interfaces, streams, threads, and more. 
 This repository offers practical examples and demonstrations.
 
